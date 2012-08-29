@@ -8,19 +8,21 @@ body {
 	border-top: 5px solid #000;
 	color: #00FF00;
 	font-size: 11px;
-	padding: 0 0 40px;
+	padding: 0 0 40px 0;
 }
 
 .bottom {
 	bottom: 0%;
+	position: absolute;
+	color: #00FF00;
 }
 
 /* anchors
 ----------------------------------------------- */
 a {
-	color: #000;
+	color: #00FF00;
 	font-weight:bold;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:hover {
 	color:#333;
@@ -31,7 +33,7 @@ a:hover {
 ----------------------------------------------- */
 .container_12,
 .container_16 {
-	background:#fff;
+	background: #000000;
 }
 
 
@@ -73,9 +75,14 @@ h2#page-heading {
 /* boxes
 ----------------------------------------------- */
 .box {
-	background:#ddd;
+	background:#111100;
 	margin-bottom:20px;
+	margin-top: 1em;
 	padding:10px 10px 1px 10px;
+}
+.code {
+	background: #220000;
+	color: #0000cc;
 }
 .box h2 {
 	font-size:1em;
