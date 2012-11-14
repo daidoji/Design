@@ -1,0 +1,122 @@
+@charset "utf-8";
+
+body {
+	background: black;
+	color: #00FF00;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: black;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+a:visited {
+	color: #463E41;
+}
+
+hgroup h1 {
+	font-size: 2em;	
+	font-family: 'Scada', sans-serif;
+	padding-left: 1%;
+}
+
+#page-title-h2 {
+	font-family: 'Gudea', serif;
+}
+
+#page-title-h3 {
+	font-family: 'Iceland', serif;
+}
+
+footer {
+	bottom: 0;
+	height: 100%;
+	width: 97%;
+	padding-left: 3%;
+	position: fixed;
+}
+
+footer p {
+	margin: 0 auto;
+	bottom: 0;
+	position: fixed;
+}
+
+.navigation {
+	height:5%;
+	min-height: 5%;
+	background: #666;
+	width: 94%;
+	overflow: hidden;
+	font-family: 'Scada', sans-serif;
+	margin-left: 3%;
+}
+
+.navigation header {
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+	min-width: 100%;
+	clear: left;
+}
+
+.front_page_button {
+	padding: 14.3% 0%;
+	width: 50%;
+	height: 45%;
+	float: left;
+	text-align: center;
+}
+
+.front_page_button a {
+
+}
+
+.container {
+	height: 90%;
+	width: 100%;
+	overflow: hidden;
+	background: black;
+	position: relative;
+	font-family: 'Iceland', serif;
+	font-size: 2em;
+}
+
+.inner_container {
+	height: 100%;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+nav { 
+	width: 100%; 
+	height: 100%;
+}
+
+nav ul { 
+	height: 5%;
+	width: 100%;
+}
+nav ul li {
+	cursor: pointer;
+	text-align: center;
+	list-style-type: none;
+	font-weight: normal;
+}
+nav ul li a {
+	color: #00FF00;
+	background: #666;
+	font-weight: bold;
+	text-decoration: none;
+	float: left;
+	padding-left: 1em;
+	height: 100%;
+	line-height: 100%;
+}
+
