@@ -15,8 +15,12 @@ html {
 	padding: 0;
 }
 
+a {
+	color: #00E;
+}
+
 a:visited {
-	color: #463E41;
+	color: #FF00FF;
 }
 
 hgroup h1 {
@@ -35,7 +39,6 @@ hgroup h1 {
 
 footer {
 	bottom: 0;
-	height: 100%;
 	width: 97%;
 	padding-left: 3%;
 	position: fixed;
