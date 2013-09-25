@@ -4,16 +4,15 @@ body {
 	background: black;
 	color: #00FF00;
 	min-height: 100%;
-	margin: 0;
-	padding: 0;
+	font-family: 'Iceland', serif;
+	overflow: hidden;
 }
 
 html {
-	background: black;
 	height: 100%;
-	margin: 0;
-	padding: 0;
+	background: black;
 }
+
 
 a {
 	color: #00E;
@@ -23,11 +22,94 @@ a:visited {
 	color: #FF00FF;
 }
 
+.content-container {
+	height: 100%;
+	width: 100%;
+}
+
+.inner-container {
+	margin: 0 15% 0 15%;
+	height: 100%;
+}
+
+.front-page-button {
+	height: 45%;
+	float: left;
+	text-align: center;
+	width: 50%;
+	padding-top: 17%;
+}
+
+.front-page-button a {
+	font-size: 2em;
+}
+
+#page-header {
+	font-family: 'Scada', sans-serif;
+	width: 100%;
+	margin: 5px auto;
+}
+
+#page-header h1 {
+	margin-left: 1em;
+	font-size: 2em;
+}
+
+#page-header nav {
+	width: 100%;
+	display: table;
+	background: #666;
+}
+
+#page-header ul {
+	height: 5%;
+	width: 100%;
+}
+
+#page-header li {
+	cursor: pointer;
+	text-align: center;
+	list-style-type: none;
+	font-weight: normal;
+}
+
+#page-header a {
+	float: left;
+	color: #00FF00;
+	margin-left: 2em;
+}
+
+#page-header a:hover {
+	background:#00FF00;
+	color:#D3D3D3;
+}
+
+#page-footer {
+	bottom: 0;
+	margin: 0 0 0 2em;
+	position: fixed;
+}
+
+/*
 hgroup h1 {
 	font-size: 2em;	
 	font-family: 'Scada', sans-serif;
 	padding-left: 1%;
 }
+
+
+footer p {
+	margin: 0 auto;
+	bottom: 0;
+	position: fixed;
+}
+
+	font-weight: bold;
+	text-decoration: none;
+	padding-left: 1em;
+	height: 100%;
+	line-height: 100%;
+
 
 #page-title-h2 {
 	font-family: 'Gudea', serif;
@@ -37,17 +119,12 @@ hgroup h1 {
 	font-family: 'Iceland', serif;
 }
 
-footer {
-	bottom: 0;
-	width: 97%;
-	padding-left: 3%;
-	position: fixed;
+#Grimes-video {
 }
 
-footer p {
-	margin: 0 auto;
-	bottom: 0;
-	position: fixed;
+#Grimes-div {
+	margin-top: 2%;
+	width:100%;
 }
 
 .navigation {
@@ -56,7 +133,6 @@ footer p {
 	background: #666;
 	width: 94%;
 	overflow: hidden;
-	font-family: 'Scada', sans-serif;
 	margin-left: 3%;
 }
 
@@ -76,54 +152,28 @@ footer p {
 	text-align: center;
 }
 
-.front_page_button a {
-
-}
-
 .container {
 	height: 90%;
 	width: 100%;
 	overflow: hidden;
 	background: black;
 	position: relative;
-	font-family: 'Iceland', serif;
 	font-size: 2em;
 }
 
-.inner_container {
+.inner-container {
 	height: 100%;
 	width: 70%;
 	margin-left: 15%;
 	margin-right: 15%;
-}
-
-nav { 
-	width: 100%; 
-	height: 100%;
-}
-
-nav ul { 
-	height: 5%;
-	width: 100%;
-}
-nav ul li {
-	cursor: pointer;
-	text-align: center;
-	list-style-type: none;
-	font-weight: normal;
-}
-nav ul li a {
-	color: #00FF00;
-	background: #666;
-	font-weight: bold;
-	text-decoration: none;
-	float: left;
-	padding-left: 1em;
-	height: 100%;
-	line-height: 100%;
+	margin-top: 1%;
 }
 
 .container div a {
 	font-family: 'Scada';
 }
 
+.twenty-percent-div {
+	width:30%;
+	float:left;
+}*/
