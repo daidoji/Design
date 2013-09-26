@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Charles Lanahan -- Creator -- Wall outside of Guggenheim
+
+# THANKS
+
+    Jesus
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, jQuery, jruby, ruby, Octopress, Linux, Apache, GNU
