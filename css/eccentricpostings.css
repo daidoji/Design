@@ -15,7 +15,11 @@ html {
 
 
 a {
-	color: #00E;
+	color: #6666f4;
+}
+
+p {
+	margin-top: 1em;
 }
 
 a:visited {
@@ -89,91 +93,3 @@ a:visited {
 	margin: 0 0 0 2em;
 	position: fixed;
 }
-
-/*
-hgroup h1 {
-	font-size: 2em;	
-	font-family: 'Scada', sans-serif;
-	padding-left: 1%;
-}
-
-
-footer p {
-	margin: 0 auto;
-	bottom: 0;
-	position: fixed;
-}
-
-	font-weight: bold;
-	text-decoration: none;
-	padding-left: 1em;
-	height: 100%;
-	line-height: 100%;
-
-
-#page-title-h2 {
-	font-family: 'Gudea', serif;
-}
-
-#page-title-h3 {
-	font-family: 'Iceland', serif;
-}
-
-#Grimes-video {
-}
-
-#Grimes-div {
-	margin-top: 2%;
-	width:100%;
-}
-
-.navigation {
-	height:5%;
-	min-height: 5%;
-	background: #666;
-	width: 94%;
-	overflow: hidden;
-	margin-left: 3%;
-}
-
-.navigation header {
-	height: 100%;
-	min-height: 100%;
-	width: 100%;
-	min-width: 100%;
-	clear: left;
-}
-
-.front_page_button {
-	padding: 14.3% 0%;
-	width: 50%;
-	height: 45%;
-	float: left;
-	text-align: center;
-}
-
-.container {
-	height: 90%;
-	width: 100%;
-	overflow: hidden;
-	background: black;
-	position: relative;
-	font-size: 2em;
-}
-
-.inner-container {
-	height: 100%;
-	width: 70%;
-	margin-left: 15%;
-	margin-right: 15%;
-	margin-top: 1%;
-}
-
-.container div a {
-	font-family: 'Scada';
-}
-
-.twenty-percent-div {
-	width:30%;
-	float:left;
-}*/
