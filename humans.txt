@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Charles Lanahan -- Creator -- Wall outside of Guggenheim
+    Charles Lanahan -- Creator -- Stuff
 
 # THANKS
 
@@ -11,4 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, jQuery, jruby, ruby, Octopress, Linux, Apache, GNU
+    HTML5, CSS3, jQuery, jruby, ruby, Octopress, Linux, Apache, GNU, 
+jekyll
