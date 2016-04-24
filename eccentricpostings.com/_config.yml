@@ -1,0 +1,15 @@
+# Site settings
+title: Eccentric Postings
+email: daidoji70@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    My words and code for people to see.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://eccentricpostings.com" # the base hostname & protocol for your site
+github_username:  daidoji70
+
+# Build settings
+markdown: kramdown
+
+safe: True
+timezone: UTC
+encoding: utf-8
