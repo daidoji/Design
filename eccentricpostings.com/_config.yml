@@ -1,11 +1,11 @@
 # Site settings
 title: Eccentric Postings
-email: daidoji70@gmail.com
+email: daidoji70 @ google's email service
 description: > # this means to ignore newlines until "baseurl:"
-    My words and code for people to see.
+    The personal and professional ramblings of an computer scientist and wannabe mathematician, Charles Lanahan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eccentricpostings.com" # the base hostname & protocol for your site
-github_username:  daidoji70
+github_username:  daidoji
 
 # Build settings
 markdown: kramdown
